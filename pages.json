@@ -141,6 +141,12 @@
             }
         },
 		{
+			"path": "pages/component/myself/index",
+			"style": {
+				"navigationBarTitleText": "index"
+			}
+		},
+		{
 			"path": "pages/component/checkbox/checkbox",
 			"style": {
 				"navigationBarTitleText": "checkbox"

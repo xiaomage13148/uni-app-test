@@ -95,7 +95,7 @@ export default {
         // 前往 pages/component/myself/self 页面
         goToSelf() {
             uni.navigateTo({
-                url: `/pages/component/myself/self?id=1`
+                url: `/pages/component/myself/index?id=1`
             });
         }
     }
