@@ -134,6 +134,12 @@
 				"navigationBarTitleText": "button"
 			}
 		},
+        {
+            "path": "pages/component/myself/self",
+            "style": {
+                "navigationBarTitleText": "self"
+            }
+        },
 		{
 			"path": "pages/component/checkbox/checkbox",
 			"style": {
